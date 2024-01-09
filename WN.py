@@ -18,7 +18,7 @@ def get_all_an():
 def main():
     
     print("\n")
-    print("NOTED:\n")
+    print("NOTE:\n")
     print("Press 1 for the Available WLAN Networks\n")
     print("Press 2 for the Available Network Profiles\n")
     print("Press 3 for the Available Network Profiles All\n")  # Added option for 3
